@@ -3,6 +3,7 @@
 ## Target Ke Depan
 - Menguasai HTML, CSS, dan Python
 - Memahami Cloud Computing lebih dalam
+- Membuat project website dan aplikasi sederhana
 
 ## Fokus Pembelajaran
 - Web Development
