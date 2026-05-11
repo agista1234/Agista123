@@ -2,3 +2,4 @@ RENCANA AGISTA WPU
 
 - Menguasai HTML, CSS, dan Python
 - Membuat project website dan aplikasi sederhana
+- Menjadi developer yang kreatif dan terus berkembang
