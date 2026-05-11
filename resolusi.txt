@@ -10,6 +10,5 @@
 - Database
 - Cloud Technology
 
-
 ## Motto
 > “Proses kecil setiap hari akan menghasilkan perubahan besar di masa depan.”
