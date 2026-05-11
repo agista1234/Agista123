@@ -7,7 +7,6 @@
 
 ## Fokus Pembelajaran
 - Web Development
-- Software Development
 - Database
 
 ## Motto
